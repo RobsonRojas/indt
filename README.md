@@ -13,6 +13,6 @@ de todas as tabelas encontradas conforme solicitado na questão 1.
 
   O codigo fonte do programa esta na pasta Indt2. Foi escrito usando o Visual Studio 2015. 
   Esta dividido em um projet de DLL (Dinamic Loading Library) e um Console App. 
-  O codigo fonte do programa em Python esta na pasta Indt2/Indt1Python.
+  O codigo fonte do programa em Python esta na pasta Indt2/Indt2Python.
 
 
