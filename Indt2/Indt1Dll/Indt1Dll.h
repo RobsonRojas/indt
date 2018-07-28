@@ -9,9 +9,9 @@ using namespace std;
 
 #ifdef _WIN32
 #    ifdef LIBRARY_EXPORTS
-#        define LIBRARY_API __declspec(dllexport)
+#        define LIBRARY_API extern "C" __declspec(dllexport)
 #    else
-#        define LIBRARY_API __declspec(dllimport)
+#        define LIBRARY_API extern "C" __declspec(dllimport)
 #    endif
 #elif
 #    define LIBRARY_API
