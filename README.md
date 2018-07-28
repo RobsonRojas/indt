@@ -1,5 +1,4 @@
-# indt
-Repository with codes to INDT selection
+# Repository with codes to INDT selection
 
 1. Escreva um programa em C/C++ que leia um arquivo binário (com estrutura mostrada abaixo) com uma sequência
 de bits pré-definida definida pela especificação abaixo:
